@@ -9,6 +9,12 @@ praise_nicely(name)
 \arguments{
 \item{name}{name (character)}
 }
+\value{
+a string with adjective
+}
 \description{
 Praise
+}
+\examples{
+praise_nicely("jean")
 }
