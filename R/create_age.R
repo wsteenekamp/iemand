@@ -1,7 +1,7 @@
 #' Title
 #'
 #' @return  "the return calues of the function"
-#' @export  "a new change here now for commit 4 then..."
+#' @export
 #'
 #' @examples
 #' create_age()
