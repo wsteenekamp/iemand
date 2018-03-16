@@ -6,6 +6,12 @@
 \usage{
 create_age()
 }
+\value{
+"the return calues of the function"
+}
 \description{
 Title
+}
+\examples{
+create_age()
 }
