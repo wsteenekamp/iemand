@@ -13,3 +13,5 @@ Suggests: testthat,
     covr
 Imports: magrittr,
     praise
+URL: https://github.com/wsteenekamp/iemand
+BugReports: https://github.com/wsteenekamp/iemand/issues
